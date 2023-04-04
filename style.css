@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Gilroy;
+    background-color: FFFFFF;
+    padding-left: 316px;
+    padding-right: 316px;
+}
+
+.header {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header_logo {
+    margin-right: 346px;
+    margin-left: 71px;
+    width: 137px;
+    height: 40px;
+}
+
+.header_menu {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    gap: 40px;
+    display: flex;
+    margin: 11px 20px 12px 3px;
+}
+
+.header_menu_item_home {
+    text-decoration: none;
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+}
+
+.header_menu_item {
+    text-decoration: none;
+    color: #000000;
+    font-family: Gilroy-Medium;
+}
+
+.content {
+    display: flex;
+    margin-top: 44px;
+    padding-right: 73px;
+    padding-left: 75px;
+}
+
+.left_content {
+    margin-right: 39px;
+}
+
+h1 {
+    font-family: 'Gilroy-Bold';
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-top: 59px;
+}
+
+p {
+    font-family: 'Gilroy-Medium';
+    font-size: 20px;
+    line-height: 23px;
+    color: #888888;
+    margin-top: 17px;
+}
+
+.button_left_content {
+    font-family: 'Gilroy-Bold';
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    gap: 72px;
+    margin-top: 37px;
+}
+
+.btn1 {
+    color: #FFFFFF;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    border: none;
+}
+
+.btn2 {
+    color: #AAAAAA;
+    background: white;
+    border: none;
+}
+
+.right_content {
+    width: 544.81px;
+    height: 374.84px;
+}
+
+.brands {
+    margin-top: 200px;
+    padding: 0 72px 81px 47px;
+    width: 1200px;
+    height: 50px;
+}
